@@ -3,5 +3,3 @@ console.log(name);
 
 
 
-const place = "Texas";
-console.log(place);
